@@ -9,6 +9,7 @@ This is a password manager software created in python with tkinter and sqlite3 f
 
 # Installation on Local Machine
 1. Clone this repository
-2. Extract then cd into the directory
-3. Run ```python3 guidatabase.py```
-4. When the software prompts for the master password enter "password123"
+2. Extract the zip
+3. CD into the directory
+4. Run ```python3 guidatabase.py```
+5. When the software prompts for the master password enter "password123"
